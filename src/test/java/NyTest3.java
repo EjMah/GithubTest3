@@ -28,7 +28,7 @@ public class NyTest3 {
     @Test
     public void TestCalc02(){
         int expected = 3+2;
-        int actual = 5;
+        int actual = 7;
         Assert.assertEquals(expected, actual);
     }
 
