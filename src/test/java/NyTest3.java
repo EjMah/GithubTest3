@@ -25,4 +25,11 @@ public class NyTest3 {
         Assert.assertEquals(expected, actual);
     }
 
+    @Test
+    public void TestCalc02(){
+        int expected = 3+2;
+        int actual = 5;
+        Assert.assertEquals(expected, actual);
+    }
+
 }
